@@ -17,7 +17,7 @@ Passo 3:
 
 Digite na aba no Google:
 
-localhoast/05-calculator
+localhost/05-calculator
 
 Já vai aparecer o site em funcionamento.
 
